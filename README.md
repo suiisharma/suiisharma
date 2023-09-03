@@ -1,6 +1,6 @@
 ## 👨‍💻 About Me
 
-I'm a Computer Science student at NIT Hamirpur, currently in my 3rd year. I have a passion for coding and enjoy working on various web and software development projects. My goal is to delve into the world of Machine Learning and Abdoid development in the future.
+I'm a Computer Science student at NIT Hamirpur, currently in my 3rd year. I have a passion for coding and enjoy working on various web and software development projects. My goal is to delve into the world of Machine Learning and Android development in the future.
 
 ## 🛠️ Skills
 
