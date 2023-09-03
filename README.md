@@ -1,6 +1,6 @@
 ## 👨‍💻 About Me
 
-I'm a Computer Science student at NIT Hamirpur, currently in my 3rd year. I have a passion for coding and enjoy working on various web and software development projects. My goal is to delve into the world of Machine Learning and Android development in the future.
+I'm a Computer Science student at NIT Hamirpur, currently in my 3rd year. I have a passion for coding and enjoy working on various web and software development projects. My goal is to delve into the world of Machine Learning and Android developent in the future.
 
 ## 🛠️ Skills
 
@@ -32,10 +32,15 @@ I'm a Computer Science student at NIT Hamirpur, currently in my 3rd year. I have
 - [![MySQL](https://img.shields.io/badge/MySQL-Click%20to%20Learn-blue)](https://www.mysql.com/)
 - [![MongoDB](https://img.shields.io/badge/MongoDB-Click%20to%20Learn-green)](https://www.mongodb.com/)
 
+## 💻 Coding Profiles
+
+- [![CodeChef](https://img.shields.io/badge/CodeChef-Profile-red)](https://www.codechef.com/users/onlycppcode)
+- [![Codeforces](https://img.shields.io/badge/Codeforces-Profile-blue)](https://codeforces.com/profile/yourcodeforcesusername)
+
 ## 🌐 Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/sourav-sharma-646291222/)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-brightgreen)](https://github.com/suiisharma)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-brightgreen)](https://codeforces.com/profile/suiiiiiiiiiiii)
 
 ## 🚀 Portfolio
 
