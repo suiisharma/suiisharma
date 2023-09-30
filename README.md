@@ -1,7 +1,7 @@
 ## 👨‍💻 About Me
 
 I'm a Computer Science student at NIT Hamirpur, currently in my 3rd year. I have a passion for coding and enjoy working on various web and software development projects. My goal is to delve into the world of Machine Learning and Android developent in the future.
-
+-[![An image of @suiisharma's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/suiisharma)](https://holopin.io/@suiisharma)
 ## 🛠️ Skills
 
 - [![JavaScript](https://img.shields.io/badge/JavaScript-Click%20to%20Learn-yellow)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
@@ -14,6 +14,7 @@ I'm a Computer Science student at NIT Hamirpur, currently in my 3rd year. I have
 - [![Bootstrap](https://img.shields.io/badge/Bootstrap-Click%20to%20Learn-blue)](https://getbootstrap.com/)
 - [![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-Click%20to%20Learn-blue)](https://tailwindcss.com/)
 - [![Tachyons](https://img.shields.io/badge/Tachyons-Click%20to%20Learn-purple)](https://tachyons.io/)
+
 - [![SASS](https://img.shields.io/badge/SASS-Click%20to%20Learn-pink)](https://sass-lang.com/)
 
 ## 🧰 Development Tools
