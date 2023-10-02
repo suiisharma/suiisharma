@@ -24,7 +24,8 @@ I'm a Computer Science student at NIT Hamirpur, currently in my 3rd year. I have
 - [![Netlify](https://img.shields.io/badge/Netlify-Click%20to%20Learn-brightgreen)](https://www.netlify.com/)
 - [![Render](https://img.shields.io/badge/Render-Click%20to%20Learn-brightgreen)](https://render.com/)
 - [![Vercel](https://img.shields.io/badge/Vercel-Click%20to%20Learn-brightgreen)](https://vercel.com/)
-- [![Nginx](https://img.shields.io/badge/Nginx-Click%20to%20Learn-green)](https://nginx.org/)
+- [![Nginx]
+(https://img.shields.io/badge/Nginx-Click%20to%20Learn-green)](https://nginx.org/)
 - [![Gunicorn](https://img.shields.io/badge/Gunicorn-Click%20to%20Learn-green)](https://gunicorn.org/)
 
 ## 🗄️ Databases
